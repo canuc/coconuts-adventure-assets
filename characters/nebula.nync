@@ -1,0 +1,9 @@
+texture /textures/nebula.png
+scale 1.0
+position 0.0 0.0 0.0
+vertex /shaders/nebula.vert
+fragment /shaders/nebula.frag
+model /models/nebula_model.wobj
+mass 5.972E24
+blending 1
+name nebula

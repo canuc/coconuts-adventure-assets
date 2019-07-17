@@ -1,0 +1,9 @@
+name monkey
+vertex /shaders/diffambspec.vert
+fragment /shaders/diffambspec.frag
+model /models/monkey.wobj
+texture /textures/mnkycolorbake.png
+scale 1.0
+rotate 0.0 0.0 90.0
+mass 100000
+collision_enabled 1

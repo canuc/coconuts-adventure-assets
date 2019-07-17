@@ -1,0 +1,7 @@
+include /characters/world.nync
+texture /textures/sun.png
+vertex /shaders/sun.vert
+fragment /shaders/sun.frag
+position -0.5 0.1 -0.5
+name sun
+collision_enabled 0

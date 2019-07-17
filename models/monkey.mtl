@@ -1,0 +1,42 @@
+# Blender MTL File: 'None'
+# Material Count: 4
+
+newmtl Material.003
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.311613 0.210271 0.132480
+Ks 0.092000 0.092000 0.092000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/julian/Developer/model/mnkycolorbake/mnkycolorbake.png
+
+newmtl Material.004
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.556086 0.521088 0.423957
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/julian/Developer/model/mnkycolorbake/mnkycolorbake.png
+
+newmtl eye
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.199009 0.114110 0.351265
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /home/julian/Developer/model/mnkycolorbake/mnkycolorbake.png
+
+newmtl iris
+Ns 327.450980
+Ka 0.000000 0.000000 0.000000
+Kd 0.110946 0.110946 0.110946
+Ks 0.645492 0.645492 0.645492
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/julian/Developer/model/mnkycolorbake/mnkycolorbake.png

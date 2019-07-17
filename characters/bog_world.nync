@@ -1,0 +1,7 @@
+include /characters/world.nync
+texture /textures/bog_planet.png
+position -0.5 0.1 -0.5
+name bog_world
+collision_enabled 1
+vertex /shaders/textured_spinning.vert
+uniform period 50000

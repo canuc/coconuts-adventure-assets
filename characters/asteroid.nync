@@ -1,0 +1,10 @@
+texture /textures/asteroid.png
+bump /textures/asteroid_bump_higher.png
+scale 0.1
+collision 1
+position 0.0 0.0 0.0
+vertex /shaders/bump.vert
+fragment /shaders/bump.frag
+model /models/LP_Asteroid.wobj
+mass 5.972E24
+name ASTERIOD

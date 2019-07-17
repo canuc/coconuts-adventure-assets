@@ -1,0 +1,8 @@
+name world
+vertex /shaders/textured.vert
+fragment /shaders/textured.frag
+texture /textures/gas_planet.jpg
+model /models/sphere.wobj
+mass 5.972E24
+bounding 1
+rotate 180 0 0
